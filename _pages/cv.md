@@ -28,6 +28,12 @@ Publications
 Teaching
 ======
   * Teaching assistant for Calculas (2) in 2022 Spring.
-  * Teaching assistane for Probability Theory and Mathematical Statistics in 2022 Autumn.
+  * Teaching assistant for Probability Theory and Mathematical Statistics in 2022 Autumn.
+
+
+Social Contribution
+=====
+* Reviewer of conferences: NeurIPS'23, KDD'24, WWW'24, ICML'24
+* Reviewer of journals: TKDE, TNNLS
   
 
