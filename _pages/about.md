@@ -13,4 +13,4 @@ I am now a Ph.D candidate from the School of Mathematical Sciences, Zhejiang Uni
 
 My research interests include **Graph Neural Networks** and **Federated Learning**.
 
-Welcome any email contact: (chenglupan@zju.edu.cn), or (chenglupan1999@gmail.com).
+Welcome any email contact: [chenglupan@zju.edu.cn], or [chenglupan1999@gmail.com].
