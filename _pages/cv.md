@@ -34,6 +34,6 @@ Teaching
 Social Contribution
 =====
 * Reviewer of conferences: NeurIPS'23, KDD'24, WWW'24, ICML'24
-* Reviewer of journals: TKDE, TNNLS
+* Reviewer of journals: TKDE, TNNLS, TBD
   
 
