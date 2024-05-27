@@ -20,10 +20,10 @@ Education
 Publications
 ======
 * Towards Fair Graph Federated Learning via Incentive Mechanisms. 
-  <br />**Chenglu Pan**, Jiarong Xu, Yue Yu, Ziqi Yang, Qingbiao Wu, Chunping Wang, Lei Chen, Yang Yang. In **AAAI2024**. [[paper](https://arxiv.org/abs/2312.13306)] [[github](https://github.com/Chenglu0426/FairGraphFL)]
+  <br />**Chenglu Pan**, Jiarong Xu, Yue Yu, Ziqi Yang, Qingbiao Wu, Chunping Wang, Lei Chen, Yang Yang. In **AAAI'24**. [[paper](https://arxiv.org/abs/2312.13306)] [[github](https://github.com/Chenglu0426/FairGraphFL)]
   
 * Measuring Task Similarity and Its Implication in Fine-Tuning Graph Neural Networks.
-   <br />Renhong Huang, Jiarong Xu, Xin Jiang, **Chenglu Pan**, Zhiming Yang, Chunping Wang, and Yang Yang. In **AAAI2024**.  [[paper](https://yangy.org/works/gnn/AAAI24_Measuring.pdf)] [[github](https://github.com/renH2/Bridge-Tune)]
+   <br />Renhong Huang, Jiarong Xu, Xin Jiang, **Chenglu Pan**, Zhiming Yang, Chunping Wang, and Yang Yang. In **AAAI'24**.  [[paper](https://yangy.org/works/gnn/AAAI24_Measuring.pdf)] [[github](https://github.com/renH2/Bridge-Tune)]
   
 Teaching
 ======
