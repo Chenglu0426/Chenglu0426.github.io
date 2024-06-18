@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computational Mathematics, Zhejiang University, 2021-2026 (expected)
 * B.S. in Mathematics and Applied Mathematics, Soochow University, 2017-2021
-* High School - [High School Affiliated to Nanjing Normal University](www.nsfz.net), 2014-2017
+* High School - [High School Affiliated to Nanjing Normal University](https://www.nsfz.net/), 2014-2017
   
 
 
