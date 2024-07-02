@@ -24,7 +24,14 @@ Publications
   
 * Measuring Task Similarity and Its Implication in Fine-Tuning Graph Neural Networks.
    <br />Renhong Huang, Jiarong Xu, Xin Jiang, **Chenglu Pan**, Zhiming Yang, Chunping Wang, and Yang Yang. In **AAAI'24**.  [[paper](https://yangy.org/works/gnn/AAAI24_Measuring.pdf)] [[github](https://github.com/renH2/Bridge-Tune)]
-  
+
+# Internship
+2024.7-present: Research Intern @ Huawei 2012 Lab.
+
+2023.11-2024.3: Research Intern @ Alibaba Cloud Intelligence Group.
+
+2021.1-2021.4: Data Analyst @ Huatai Securities Co., Ltd.
+
 Teaching
 ======
   * Teaching assistant for Calculas (2) in 2022 Spring.
