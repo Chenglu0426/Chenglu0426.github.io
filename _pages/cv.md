@@ -28,8 +28,6 @@ Publications
 # Internship
 2024.7-present: Research Intern @ Huawei 2012 Lab.
 
-2023.11-2024.3: Research Intern @ Alibaba Cloud Intelligence Group.
-
 2021.1-2021.4: Data Analyst @ Huatai Securities Co., Ltd.
 
 Teaching
