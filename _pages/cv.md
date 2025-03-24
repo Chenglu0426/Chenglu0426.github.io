@@ -19,6 +19,9 @@ Education
 
 Publications
 ======
+* Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios. 
+  <br />**Chenglu Pan**, Xiaogang Xu, Ganggui Ding, Yunke Zhang, Wenbo Li, Jiarong Xu, Qingbiao Wu. Arxiv 2025. [[paper](https://arxiv.org/abs/2503.07232)]
+
 * Towards Fair Graph Federated Learning via Incentive Mechanisms. 
   <br />**Chenglu Pan**, Jiarong Xu, Yue Yu, Ziqi Yang, Qingbiao Wu, Chunping Wang, Lei Chen, Yang Yang. In **AAAI'24**. [[paper](https://arxiv.org/abs/2312.13306)] [[github](https://github.com/Chenglu0426/FairGraphFL)]
   
