@@ -27,6 +27,8 @@ Publications
    <br />Renhong Huang, Jiarong Xu, Xin Jiang, **Chenglu Pan**, Zhiming Yang, Chunping Wang, and Yang Yang. In **AAAI'24**.  [[paper](https://yangy.org/works/gnn/AAAI24_Measuring.pdf)] [[github](https://github.com/renH2/Bridge-Tune)]
 
 # Internship
+2025.5- : Intern @ AntGroup.
+
 2024.7-2025.4: Research Intern @ Huawei 2012 Lab.
 
 2021.1-2021.4: Data Analyst @ Huatai Securities Co., Ltd.
