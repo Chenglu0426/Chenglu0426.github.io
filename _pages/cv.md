@@ -26,6 +26,15 @@ Publications
 * Measuring Task Similarity and Its Implication in Fine-Tuning Graph Neural Networks.
    <br />Renhong Huang, Jiarong Xu, Xin Jiang, **Chenglu Pan**, Zhiming Yang, Chunping Wang, and Yang Yang. In **AAAI'24**.  [[paper](https://yangy.org/works/gnn/AAAI24_Measuring.pdf)] [[github](https://github.com/renH2/Bridge-Tune)]
 
+* Towards Fair and Robust Graph Federated Learning via Incentive Mechanisms.
+  <br />**Chenglu Pan**, Jiarong Xu, Carl Yang, Qingbiao Wu, Yang Yang. In **ACM Transactions on Knowledge Discovery from Data**. Minor Revision.
+
+* Privacy-Preserving Collaborative Drug Discovery: A Novel Molecular Graph Federated Learning Method.
+  <br />**Chenglu Pan**, Jiarong Xu, Yunfan Yang, Qingbiao Wu, Chenghong Zhang. Information Systems Research (UTD-24). Under Review.
+
+* Boosting Diffusion-based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios.
+  <br />**Chenglu Pan**, Xiaogang Xu, Ganggui Ding, Yunke Zhang, Wenbo Li, Jiarong Xu, Qingbiao Wu. Submitted to NeurIPS 2025.
+
 # Internship
 2025.5- : Summer Intern @ Codefuse, AntGroup.
 
