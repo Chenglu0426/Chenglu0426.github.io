@@ -30,7 +30,7 @@ Publications
   <br />**Chenglu Pan**, Jiarong Xu, Carl Yang, Qingbiao Wu, Yang Yang. In **ACM Transactions on Knowledge Discovery from Data**. Minor Revision.
 
 * Privacy-Preserving Collaborative Drug Discovery: A Novel Molecular Graph Federated Learning Method.
-  <br />**Chenglu Pan**, Jiarong Xu, Yunfan Yang, Qingbiao Wu, Chenghong Zhang. Information Systems Research (UTD-24). Under Review.
+  <br />**Chenglu Pan**, Jiarong Xu, Yunfan Yang, Qingbiao Wu, Chenghong Zhang. Information Systems Research (UTD-24). Major Revision.
 
 * Boosting Diffusion-based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios.
   <br />**Chenglu Pan**, Xiaogang Xu, Ganggui Ding, Yunke Zhang, Wenbo Li, Jiarong Xu, Qingbiao Wu. Submitted to NeurIPS 2025.
