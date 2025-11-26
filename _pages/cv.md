@@ -35,10 +35,12 @@ Publications
 * Boosting Diffusion-based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios.
   <br />**Chenglu Pan**, Xiaogang Xu, Ganggui Ding, Yunke Zhang, Wenbo Li, Jiarong Xu, Qingbiao Wu. Submitted to NeurIPS 2025.
 * Towards More Practical Vertically Federated Graph Neural Networks. 
-  <br />**Chenglu Pan**, Qingbiao Wu. Submitted to CIKM 2025.
+  <br />**Chenglu Pan**, Qingbiao Wu. WSDM'25.
 
 # Internship
-2025.5- : Summer Intern @ Codefuse, AntGroup.
+2025.12- ：Intern @ Xiaohongshu.
+
+2025.5-2025.10 : Summer Intern @ Codefuse, AntGroup.
 
 2024.7-2025.4: Research Intern @ Huawei 2012 Lab.
 
