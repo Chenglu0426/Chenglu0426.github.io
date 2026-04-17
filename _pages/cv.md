@@ -33,9 +33,8 @@ Publications
   <br />**Chenglu Pan**, Jiarong Xu, Yunfan Yang, Qingbiao Wu, Chenghong Zhang. Information Systems Research (UTD-24). Major Revision.
 
 * Boosting Diffusion-based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios.
-  <br />**Chenglu Pan**, Xiaogang Xu, Ganggui Ding, Yunke Zhang, Wenbo Li, Jiarong Xu, Qingbiao Wu. Submitted to NeurIPS 2025.
-* Towards More Practical Vertically Federated Graph Neural Networks. 
-  <br />**Chenglu Pan**, Qingbiao Wu. WSDM'25.
+  <br />**Chenglu Pan**, Xiaogang Xu, Ganggui Ding, Yunke Zhang, Wenbo Li, Jiarong Xu, Qingbiao Wu. In **ICCV'25**.
+
 
 # Internship
 2025.12- ：Intern @ Xiaohongshu.
