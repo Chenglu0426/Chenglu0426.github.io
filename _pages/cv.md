@@ -27,7 +27,7 @@ Publications
    <br />Renhong Huang, Jiarong Xu, Xin Jiang, **Chenglu Pan**, Zhiming Yang, Chunping Wang, and Yang Yang. In **AAAI'24**.  [[paper](https://yangy.org/works/gnn/AAAI24_Measuring.pdf)] [[github](https://github.com/renH2/Bridge-Tune)]
 
 * Towards Fair and Robust Graph Federated Learning via Incentive Mechanisms.
-  <br />**Chenglu Pan**, Jiarong Xu, Carl Yang, Qingbiao Wu, Yang Yang. In **ACM Transactions on Knowledge Discovery from Data**. Minor Revision.
+  <br />**Chenglu Pan**, Jiarong Xu, Carl Yang, Qingbiao Wu, Yang Yang. In **ACM Transactions on Knowledge Discovery from Data**. Accepted.
 
 * Privacy-Preserving Collaborative Drug Discovery: A Novel Molecular Graph Federated Learning Method.
   <br />**Chenglu Pan**, Jiarong Xu, Yunfan Yang, Qingbiao Wu, Chenghong Zhang. Information Systems Research (UTD-24). Major Revision.
